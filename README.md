@@ -1,1 +1,1 @@
-# free-assets-gamedevpro
+Feito para propositos de estudo.
