@@ -3,6 +3,8 @@ FEATURES:
 - 16x16 sand ground tileset
 - Simple character
 - Simple slime enemy
+- Skeleton enemy
+- Sky Background
 - Demo scene 
 
 LICENCE:
